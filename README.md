@@ -4,7 +4,7 @@ This application based on Java programming language (13.0.1 version) and Maven (
 - javafx-fxml,
 - javafx-graphics.
 
-The encoding of this apllication is UTF-8.
+The encoding of this application is UTF-8.
  
 This application is a game "Space Race Game". 
 The player has four spaceships to choose from. 
