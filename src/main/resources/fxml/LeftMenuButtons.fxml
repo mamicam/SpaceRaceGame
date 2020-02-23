@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<Pane prefHeight="557.0" prefWidth="225.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.mamicam.controllers.LeftMenuButtonsController">
+   <children>
+      <VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="553.0" prefWidth="222.0">
+         <children>
+            <ToggleButton mnemonicParsing="false" onAction="#chooseShip" prefHeight="100.0" prefWidth="200.0" text="%chooseYour.ship">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+               <toggleGroup>
+                  <ToggleGroup fx:id="leftToggleButtons" />
+               </toggleGroup>
+            </ToggleButton>
+            <ToggleButton mnemonicParsing="false" onAction="#playGame" prefHeight="100.0" prefWidth="200.0" text="%play" toggleGroup="$leftToggleButtons">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
+               </VBox.margin>
+            </ToggleButton>
+            <ToggleButton mnemonicParsing="false" onAction="#yourScore" prefHeight="100.0" prefWidth="200.0" text="%score" toggleGroup="$leftToggleButtons">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
+               </VBox.margin>
+            </ToggleButton>
+            <ToggleButton mnemonicParsing="false" onAction="#help" prefHeight="100.0" prefWidth="200.0" text="%help" toggleGroup="$leftToggleButtons">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
+               </VBox.margin>
+            </ToggleButton>
+            <ToggleButton mnemonicParsing="false" onAction="#yourCredits" prefHeight="100.0" prefWidth="200.0" text="%credits" toggleGroup="$leftToggleButtons">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
+               </VBox.margin>
+            </ToggleButton>
+            <ToggleButton mnemonicParsing="false" onAction="#gameClose" prefHeight="100.0" prefWidth="200.0" text="%exit" toggleGroup="$leftToggleButtons">
+               <VBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
+               </VBox.margin>
+            </ToggleButton>
+         </children>
+      </VBox>
+   </children>
+</Pane>

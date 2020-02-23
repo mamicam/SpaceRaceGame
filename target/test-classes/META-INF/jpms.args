@@ -1,0 +1,4 @@
+--patch-module
+SpaceRaceGame=_
+--add-reads
+SpaceRaceGame=ALL-UNNAMED
