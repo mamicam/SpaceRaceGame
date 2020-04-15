@@ -4,61 +4,63 @@
 <?import javafx.scene.control.CheckBox?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.HBox?>
 
-<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="129.0" prefWidth="610.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.mamicam.controllers.ChooseYourShipController">
-    <children>
-        <HBox prefHeight="146.0" prefWidth="597.0">
-            <children>
-                <CheckBox mnemonicParsing="false" onAction="#chooseRedShip" prefHeight="126.0" prefWidth="133.0">
-                    <HBox.margin>
-                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                    </HBox.margin>
-                    <graphic>
-                        <ImageView fx:id="chooseRedShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
-                            <image>
-                                <Image url="@../ships/Ship_type1_red.png" />
-                            </image>
-                        </ImageView>
-                    </graphic>
-                </CheckBox>
-                <CheckBox mnemonicParsing="false" onAction="#chooseGreenShip" prefHeight="132.0" prefWidth="151.0">
-                    <HBox.margin>
-                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                    </HBox.margin>
-                    <graphic>
-                        <ImageView fx:id="chooseGreenShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
-                            <image>
-                                <Image url="@../ships/Ship_type2_green.png" />
-                            </image>
-                        </ImageView>
-                    </graphic>
-                </CheckBox>
-                <CheckBox mnemonicParsing="false" onAction="#chooseBlueShip" prefHeight="120.0" prefWidth="135.0">
-                    <HBox.margin>
-                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                    </HBox.margin>
-                    <graphic>
-                        <ImageView fx:id="chooseBlueShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
-                            <image>
-                                <Image url="@../ships/Ship_type3_blue.png" />
-                            </image>
-                        </ImageView>
-                    </graphic>
-                </CheckBox>
-                <CheckBox mnemonicParsing="false" onAction="#chooseYellowShip" prefHeight="129.0" prefWidth="110.0">
-                    <HBox.margin>
-                        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
-                    </HBox.margin>
-                    <graphic>
-                        <ImageView fx:id="chooseYellowShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
-                            <image>
-                                <Image url="@../ships/Ship_type4_yellow.png" />
-                            </image>
-                        </ImageView>
-                    </graphic>
-                </CheckBox>
-            </children>
-        </HBox>
-    </children>
-</HBox>
+
+<AnchorPane fx:id="shipChooserPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="130.0" prefWidth="620.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.mamicam.controllers.ChooseYourShipController">
+   <children>
+      <HBox prefHeight="130.0" prefWidth="600.0">
+         <children>
+            <CheckBox mnemonicParsing="false" onAction="#chooseRedShip" prefHeight="126.0" prefWidth="133.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <graphic>
+                  <ImageView fx:id="chooseRedShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../ships/Ship_type1_red.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </CheckBox>
+            <CheckBox mnemonicParsing="false" onAction="#chooseGreenShip" prefHeight="132.0" prefWidth="151.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <graphic>
+                  <ImageView fx:id="chooseGreenShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../ships/Ship_type2_green.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </CheckBox>
+            <CheckBox mnemonicParsing="false" onAction="#chooseBlueShip" prefHeight="120.0" prefWidth="135.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <graphic>
+                  <ImageView fx:id="chooseBlueShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../ships/Ship_type3_blue.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </CheckBox>
+            <CheckBox mnemonicParsing="false" onAction="#chooseYellowShip" prefHeight="129.0" prefWidth="110.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <graphic>
+                  <ImageView fx:id="chooseYellowShip" fitHeight="90.0" fitWidth="140.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../ships/Ship_type4_yellow.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </CheckBox>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

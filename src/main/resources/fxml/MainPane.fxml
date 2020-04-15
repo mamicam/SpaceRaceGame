@@ -25,6 +25,7 @@
                   <fx:include fx:id="leftMenuButtons" source="LeftMenuButtons.fxml" />
                </children>
             </VBox>
+            <BorderPane fx:id="buttonsBorderPane" layoutX="311.0" layoutY="230.0" prefHeight="475.0" prefWidth="823.0" />
          </children>
       </Pane>
    </center>

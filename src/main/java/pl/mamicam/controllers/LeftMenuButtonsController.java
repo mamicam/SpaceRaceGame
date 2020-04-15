@@ -19,31 +19,32 @@ public class LeftMenuButtonsController {
 
     @FXML
     public void chooseShip() {
-        mainPaneController.setCenter(SHIP_BUTTON_FXML);
+        mainPaneController.setButtonsPaneToLeft(SHIP_BUTTON_FXML);
+        resetToggleButtons();
     }
 
     @FXML
     public void playGame() {
+        mainPaneController.setButtonsPaneToLeft(PLAY_BUTTON_FXML);
         resetToggleButtons();
-        mainPaneController.setCenter(PLAY_BUTTON_FXML);
     }
 
     @FXML
     public void yourScore() {
+        mainPaneController.setButtonsPaneToLeft(SCORE_BUTTON_FXML);
         resetToggleButtons();
-        mainPaneController.setCenter(SCORE_BUTTON_FXML);
     }
 
     @FXML
     public void help() {
+        mainPaneController.setButtonsPaneToLeft(HELP_BUTTON_FXML);
         resetToggleButtons();
-        mainPaneController.setCenter(HELP_BUTTON_FXML);
     }
 
     @FXML
     public void yourCredits() {
+        mainPaneController.setButtonsPaneToLeft(CREDITS_BUTTON_FXML);
         resetToggleButtons();
-        mainPaneController.setCenter(CREDITS_BUTTON_FXML);
     }
 
     @FXML

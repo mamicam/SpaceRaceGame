@@ -6,7 +6,7 @@ import pl.mamicam.utils.FxmlUtils;
 
 public class MainPaneController {
     @FXML
-    BorderPane borderPane;
+    BorderPane borderPane, buttonsBorderPane;
 
     @FXML
     ChooseYourShipController chooseYourShipController;
@@ -19,7 +19,7 @@ public class MainPaneController {
         leftMenuButtonsController.setMainPaneController(this);
     }
 
-    public void setCenter(String fxmlPath) {
-        borderPane.setCenter(FxmlUtils.fxmlLoader(fxmlPath));
+    public void setButtonsPaneToLeft(String fxmlPath) {
+        buttonsBorderPane.setLeft(FxmlUtils.fxmlLoader(fxmlPath));
     }
 }

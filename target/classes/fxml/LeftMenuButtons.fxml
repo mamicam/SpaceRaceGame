@@ -5,6 +5,7 @@
 <?import javafx.scene.control.ToggleGroup?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
 
 <Pane prefHeight="557.0" prefWidth="225.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.mamicam.controllers.LeftMenuButtonsController">
    <children>
@@ -17,31 +18,49 @@
                <toggleGroup>
                   <ToggleGroup fx:id="leftToggleButtons" />
                </toggleGroup>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#playGame" prefHeight="100.0" prefWidth="200.0" text="%play" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#yourScore" prefHeight="100.0" prefWidth="200.0" text="%score" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#help" prefHeight="100.0" prefWidth="200.0" text="%help" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#yourCredits" prefHeight="100.0" prefWidth="200.0" text="%credits" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#gameClose" prefHeight="100.0" prefWidth="200.0" text="%exit" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
+               <font>
+                  <Font name="io" size="16.0" />
+               </font>
             </ToggleButton>
          </children>
       </VBox>

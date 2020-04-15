@@ -9,7 +9,6 @@ module SpaceRaceGame {
     opens pl.mamicam.utils to javafx.graphics, javafx.controls, javafx.base, javafx.fxml;
     opens background;
     opens bundles;
-    opens buttons;
     opens fonts;
     opens fxml to javafx.fxml;
     opens ships;
