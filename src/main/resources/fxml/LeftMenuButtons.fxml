@@ -19,7 +19,7 @@
                   <ToggleGroup fx:id="leftToggleButtons" />
                </toggleGroup>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#playGame" prefHeight="100.0" prefWidth="200.0" text="%play" toggleGroup="$leftToggleButtons">
@@ -27,7 +27,7 @@
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#yourScore" prefHeight="100.0" prefWidth="200.0" text="%score" toggleGroup="$leftToggleButtons">
@@ -35,7 +35,7 @@
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#help" prefHeight="100.0" prefWidth="200.0" text="%help" toggleGroup="$leftToggleButtons">
@@ -43,7 +43,7 @@
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#yourCredits" prefHeight="100.0" prefWidth="200.0" text="%credits" toggleGroup="$leftToggleButtons">
@@ -51,7 +51,7 @@
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
             <ToggleButton mnemonicParsing="false" onAction="#gameClose" prefHeight="100.0" prefWidth="200.0" text="%exit" toggleGroup="$leftToggleButtons">
@@ -59,7 +59,7 @@
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>
                <font>
-                  <Font name="io" size="16.0" />
+                  <Font name="Courier New Bold" size="16.0" />
                </font>
             </ToggleButton>
          </children>

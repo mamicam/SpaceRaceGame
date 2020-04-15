@@ -6,9 +6,9 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="108.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Label prefHeight="106.0" prefWidth="488.0" text="%score.label" textFill="#fafafa">
+      <Label prefHeight="106.0" prefWidth="558.0" text="%score.label" textFill="#fafafa">
          <font>
-            <Font name="io" size="30.0" />
+            <Font name="Courier New Bold" size="35.0" />
          </font></Label>
    </children>
 </AnchorPane>
