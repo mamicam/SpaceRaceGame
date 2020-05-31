@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98753934-0df8-42ab-8221-57b0f47b0af4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/GameSceneController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/images/ImageLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/background/gameBackground.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/background/menuBackground.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/GameScene.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/ChooseYourShipController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/ChooseYourShipController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/LeftMenuButtonsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/LeftMenuButtonsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/MainPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/MainPaneController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/game/SpaceRaceGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/game/SpaceRaceGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/utils/FxmlUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/background/universe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/background/universe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bundles/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bundles/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bundles/messages_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bundles/messages_pl.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ChooseYourShipButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ChooseYourShipButton.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/LeftMenuButtons.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/LeftMenuButtons.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MainPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainPane.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpaceRaceGame-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpaceRaceGame-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/background/universe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bundles/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bundles/messages.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bundles/messages_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bundles/messages_pl.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ChooseYourShipButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ChooseYourShipButton.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/LeftMenuButtons.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/LeftMenuButtons.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/MainPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/MainPane.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/ChooseYourShipController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/ChooseYourShipController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/LeftMenuButtonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/LeftMenuButtonsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/MainPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/MainPaneController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/game/SpaceRaceGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/game/SpaceRaceGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/utils/FxmlUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/utils/FxmlUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-SpaceRaceGame-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpaceRaceGame-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="98753934-0df8-42ab-8221-57b0f47b0af4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586953631182</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New version of game menu">
+      <created>1590960274790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590960274791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -180,7 +152,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish menu of the game. Change fonts, build subscenes for buttons, delete unnecessary elements, such as unused buttons and backgrounds." />
     <MESSAGE value="Change font style." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change font style." />
+    <MESSAGE value="New version of game menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="New version of game menu" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="108" key="#Images" timestamp="1589224472225">
@@ -227,10 +200,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1582397924955" />
-    <state x="132" y="0" key="CommitChangelistDialog2" timestamp="1586953629180">
+    <state x="132" y="0" key="CommitChangelistDialog2" timestamp="1590960267499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="132" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586953629180" />
+    <state x="132" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590960267499" />
     <state width="528" height="466" key="DebuggerActiveHint" timestamp="1587561566343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -283,10 +256,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1590579333857" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586953856551">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590960361015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586953856551" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590960361015" />
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586883665325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -98,14 +98,14 @@ public class LeftMenuButtonsController extends SpaceRaceGame {
             if (leftMenuButtonsController.game.isPressed() & chooseYourShipController.checkRedShip.isSelected()) {
                 gameSceneController.setShip("ships/Ship_type1_red.png");
                 System.out.println("Red ship is visible");
-                } else if (chooseYourShipController.checkGreenShip.isSelected()) {
+                } else if (leftMenuButtonsController.game.isPressed() & chooseYourShipController.checkGreenShip.isSelected()) {
                 gameSceneController.setShip("ships/Ship_type2_green.png");
                 System.out.println("Green ship is visible");
             } else {
-                System.out.println("Error with loading ship, czyli progrmista mniejsza dupa!");
+                System.out.println("Error with loading ship");
                 }
             } else {
-                System.out.println("Programista dupa!");
+                System.out.println("ERROR!!!");
             }
         }
     }
