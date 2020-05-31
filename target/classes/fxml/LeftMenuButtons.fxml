@@ -22,7 +22,7 @@
                   <Font name="Courier New Bold" size="15.5" />
                </font>
             </ToggleButton>
-            <ToggleButton mnemonicParsing="false" onAction="#playGame" prefHeight="100.0" prefWidth="200.0" text="%play" toggleGroup="$leftToggleButtons">
+            <ToggleButton fx:id="game" mnemonicParsing="false" onAction="#createGameStage" onMouseClicked="#showShip" onMousePressed="#showShip" prefHeight="100.0" prefWidth="200.0" text="%play" toggleGroup="$leftToggleButtons">
                <VBox.margin>
                   <Insets bottom="10.0" left="10.0" right="10.0" top="5.0" />
                </VBox.margin>

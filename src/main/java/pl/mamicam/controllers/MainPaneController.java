@@ -5,6 +5,7 @@ import javafx.scene.layout.BorderPane;
 import pl.mamicam.utils.FxmlUtils;
 
 public class MainPaneController {
+
     @FXML
     BorderPane borderPane, buttonsBorderPane;
 

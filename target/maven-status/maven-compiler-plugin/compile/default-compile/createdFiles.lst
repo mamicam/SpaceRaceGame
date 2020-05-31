@@ -2,5 +2,6 @@ pl\mamicam\game\SpaceRaceGame.class
 module-info.class
 pl\mamicam\controllers\LeftMenuButtonsController.class
 pl\mamicam\controllers\ChooseYourShipController.class
+pl\mamicam\controllers\GameSceneController.class
 pl\mamicam\controllers\MainPaneController.class
 pl\mamicam\utils\FxmlUtils.class

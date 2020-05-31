@@ -2,21 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98753934-0df8-42ab-8221-57b0f47b0af4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/GameSceneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/images/ImageLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/background/gameBackground.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/background/menuBackground.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fxml/GameScene.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/ChooseYourShipController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/ChooseYourShipController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/LeftMenuButtonsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/LeftMenuButtonsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/MainPaneController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/controllers/MainPaneController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/game/SpaceRaceGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/game/SpaceRaceGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/mamicam/utils/FxmlUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/mamicam/utils/FxmlUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/background/universe.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/background/universe.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/bundles/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bundles/messages.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/bundles/messages_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bundles/messages_pl.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/CreditsButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/CreditsButton.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/HelpButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/HelpButton.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/ChooseYourShipButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/ChooseYourShipButton.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/LeftMenuButtons.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/LeftMenuButtons.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/background/silver_panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/background/yellow_small_panel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/buttons/License free.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/buttons/silver_button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/buttons/silver_button_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/CreditsButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/CreditsButton.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ScoreButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ScoreButton.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ships/choosen_button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ships/grey_button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MainPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/MainPane.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SpaceRaceGame-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpaceRaceGame-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/background/universe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bundles/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bundles/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bundles/messages_pl.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bundles/messages_pl.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/ChooseYourShipButton.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/ChooseYourShipButton.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/LeftMenuButtons.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/LeftMenuButtons.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/MainPane.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/MainPane.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/ChooseYourShipController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/ChooseYourShipController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/LeftMenuButtonsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/LeftMenuButtonsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/MainPaneController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/controllers/MainPaneController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/game/SpaceRaceGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/game/SpaceRaceGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/mamicam/utils/FxmlUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/mamicam/utils/FxmlUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-SpaceRaceGame-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-SpaceRaceGame-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +49,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Enum" />
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -71,17 +92,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/fxml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/background" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources" />
+      <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources\background" />
+      <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources\pl\mamicam" />
+      <recent name="D:\Java - nauka\SpaceRaceGame\src\main\java\pl\mamicam\game" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources\background" />
       <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources\fxml" />
       <recent name="D:\Java - nauka\SpaceRaceGame\src\main\resources" />
     </key>
@@ -94,7 +123,7 @@
       <module name="SpaceRaceGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.mamicam.game.*" />
+          <option name="PATTERN" value="pl.mamicam.controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,14 +164,29 @@
       <option name="project" value="LOCAL" />
       <updated>1586949608613</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change font style.">
+      <created>1586953631182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586953631182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish menu of the game. Change fonts, build subscenes for buttons, delete unnecessary elements, such as unused buttons and backgrounds." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish menu of the game. Change fonts, build subscenes for buttons, delete unnecessary elements, such as unused buttons and backgrounds." />
+    <MESSAGE value="Change font style." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change font style." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="515" y="108" key="#Images" timestamp="1589224472225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="108" key="#Images/0.0.1536.824@0.0.1536.824" timestamp="1589224472225" />
     <state x="266" y="0" key="#Java_Type_Renderers" timestamp="1582397433536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -151,93 +195,138 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586887424347" />
+    <state x="361" y="53" key="#Plugins" timestamp="1590325954013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1590325954013" />
     <state x="599" y="270" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1582397438732">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="599" y="270" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.824@0.0.1536.824" timestamp="1582397438732" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582392479018">
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589224704942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582392479018" />
-    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586883674666">
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589224704942" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1590580162080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1586883674666" />
-    <state x="646" y="165" key="#xdebugger.XInspectDialog" timestamp="1582397456886">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590580162080" />
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588415082124">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="646" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1582397456886" />
-    <state x="524" y="121" width="744" height="638" key="#xdebugger.evaluate" timestamp="1582472724386">
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1588415082124" />
+    <state x="646" y="165" key="#xdebugger.XInspectDialog" timestamp="1587216156868">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="121" width="744" height="638" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1582472724386" />
+    <state x="646" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1587216156868" />
+    <state x="524" y="121" width="744" height="638" key="#xdebugger.evaluate" timestamp="1587566294961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="121" width="744" height="638" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1587566294961" />
     <state x="527" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582397924955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="527" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1582397924955" />
-    <state x="132" y="0" key="CommitChangelistDialog2" timestamp="1586949601928">
+    <state x="132" y="0" key="CommitChangelistDialog2" timestamp="1586953629180">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="132" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586949601928" />
-    <state width="528" height="466" key="DebuggerActiveHint" timestamp="1582473742514">
+    <state x="132" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586953629180" />
+    <state width="528" height="466" key="DebuggerActiveHint" timestamp="1587561566343">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="528" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1582473742514" />
+    <state width="528" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1587561566343" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582398068551">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582398068551" />
-    <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1586950021760">
+    <state x="629" y="324" key="Github.Dialog.Accounts.Choose" timestamp="1586953764009">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1586950021760" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1586950418823">
+    <state x="629" y="324" key="Github.Dialog.Accounts.Choose/0.0.1536.824@0.0.1536.824" timestamp="1586953764009" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1590926210075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586950418823" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1586950418822">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590926210075" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1590926210074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586950418822" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1586950418822">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590926210074" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1590926210074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586950418822" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1586950418822">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590926210074" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1590926210075">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586950418822" />
-    <state width="1493" height="249" key="GridCell.Tab.1.bottom" timestamp="1582479229719">
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590926210075" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1590849027019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582479229719" />
-    <state width="1493" height="249" key="GridCell.Tab.1.center" timestamp="1582479229719">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590849027019" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1590849027019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="249" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582479229719" />
-    <state width="1493" height="249" key="GridCell.Tab.1.left" timestamp="1582479229719">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590849027019" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1590849027019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="249" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582479229719" />
-    <state width="1493" height="249" key="GridCell.Tab.1.right" timestamp="1582479229719">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590849027019" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1590849027019">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="249" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582479229719" />
-    <state x="279" y="0" key="SettingsEditor" timestamp="1586947105109">
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590849027019" />
+    <state x="279" y="0" key="SettingsEditor" timestamp="1586953834368">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586947105109" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586949992539">
+    <state x="279" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586953834368" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1590579333857">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586949992539" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1590579333857" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1586953856551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586953856551" />
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586883665325">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586883665325" />
-    <state x="209" y="116" key="new project wizard" timestamp="1582469432717">
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588078805410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="116" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582469432717" />
+    <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588078805410" />
+    <state x="476" y="200" key="git4idea.merge.GitPullDialog" timestamp="1586953847186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1586953847186" />
+    <state x="209" y="65" key="new project wizard" timestamp="1590926206722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="65" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1590926206722" />
+    <state x="541" y="286" width="619" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1589224552406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="286" width="619" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1589224552406" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590593054042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590593054042" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587561874930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587561874930" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="javafx.scene.image.ImageView" fieldName="image" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="imageView.imageUrl" />
+        <watch expression="imageView.imageUrl" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

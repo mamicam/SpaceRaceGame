@@ -8,13 +8,8 @@
 
 <BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="749.0" prefWidth="1141.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pl.mamicam.controllers.MainPaneController">
    <center>
-      <Pane fx:id="pane" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+      <Pane fx:id="pane" prefHeight="200.0" prefWidth="200.0" styleClass="bodybg" stylesheets="@../background/menuBackground.css" BorderPane.alignment="CENTER">
          <children>
-            <ImageView fitHeight="756.0" fitWidth="1142.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@../background/universe.png" />
-               </image>
-            </ImageView>
             <ImageView fitHeight="217.0" fitWidth="426.0" layoutX="358.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@../background/spaceRace.png" />
